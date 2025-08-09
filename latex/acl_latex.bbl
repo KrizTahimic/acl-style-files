@@ -1,0 +1,50 @@
+\begin{thebibliography}{9}
+\providecommand{\natexlab}[1]{#1}
+
+\bibitem[{Bricken et~al.(2023)Bricken, Templeton, Batson, Chen, Jermyn, Conerly, Turner, Anil, Denison, Askell, Lasenby, Wu, Kravec, Schiefer, Maxwell, Joseph, Hatfield-Dodds, Tamkin, Nguyen, McLean, Burke, Hume, Carter, Henighan, and Olah}]{bricken2023monosemanticity}
+Trenton Bricken, Adly Templeton, Joshua Batson, Brian Chen, Adam Jermyn, Tom Conerly, Nick Turner, Cem Anil, Carson Denison, Amanda Askell, Robert Lasenby, Yifan Wu, Shauna Kravec, Nicholas Schiefer, Tim Maxwell, Nicholas Joseph, Zac Hatfield-Dodds, Alex Tamkin, Karina Nguyen, and 6 others. 2023.
+\newblock Towards monosemanticity: Decomposing language models with dictionary learning.
+\newblock \emph{Transformer Circuits Thread}.
+\newblock Https://transformer-circuits.pub/2023/monosemantic-features/index.html.
+
+\bibitem[{Dohmke et~al.(2023)Dohmke, Iansiti, and Richards}]{dohmke2023sea}
+Thomas Dohmke, Marco Iansiti, and Greg Richards. 2023.
+\newblock Sea change in software development: Economic and productivity analysis of the ai-powered developer lifecycle.
+\newblock \emph{arXiv preprint arXiv:2306.15033}.
+
+\bibitem[{Ferrando et~al.(2024)Ferrando, Obeso, Rajamanoharan, and Nanda}]{ferrando2024know}
+Javier Ferrando, Oscar Obeso, Senthooran Rajamanoharan, and Neel Nanda. 2024.
+\newblock Do i know this entity? knowledge awareness and hallucinations in language models.
+\newblock \emph{arXiv preprint arXiv:2411.14257}.
+
+\bibitem[{Gao et~al.(2020)Gao, Biderman, Black, Golding, Hoppe, Foster, Phang, He, Thite, Nabeshima et~al.}]{gao2020pile}
+Leo Gao, Stella Biderman, Sid Black, Laurence Golding, Travis Hoppe, Charles Foster, Jason Phang, Horace He, Anish Thite, Noa Nabeshima, and 1 others. 2020.
+\newblock The pile: An 800gb dataset of diverse text for language modeling.
+\newblock \emph{arXiv preprint arXiv:2101.00027}.
+
+\bibitem[{Lieberum et~al.(2024)Lieberum, Rajamanoharan, Conmy, Smith, Sonnerat, Varma, Kram{\'a}r, Dragan, Shah, and Nanda}]{lieberum2024gemma}
+Tom Lieberum, Senthooran Rajamanoharan, Arthur Conmy, Lewis Smith, Nicolas Sonnerat, Vikrant Varma, J{\'a}nos Kram{\'a}r, Anca Dragan, Rohin Shah, and Neel Nanda. 2024.
+\newblock Gemma scope: Open sparse autoencoders everywhere all at once on gemma 2.
+\newblock \emph{arXiv preprint arXiv:2408.05147}.
+
+\bibitem[{Liu et~al.(2024)Liu, Liu, Shi, Huang, Wang, Yang, Zhang, Li, and Ma}]{liu2024exploring}
+Fang Liu, Yang Liu, Lin Shi, Houkun Huang, Ruifeng Wang, Zhen Yang, Li~Zhang, Zhongqi Li, and Yuchi Ma. 2024.
+\newblock Exploring and evaluating hallucinations in llm-powered code generation.
+\newblock \emph{arXiv preprint arXiv:2404.00971}.
+
+\bibitem[{McCabe(1976)}]{mccabe1976complexity}
+Thomas~J McCabe. 1976.
+\newblock A complexity measure.
+\newblock \emph{IEEE Transactions on software Engineering}, (4):308--320.
+
+\bibitem[{Team et~al.(2024)Team, Riviere, Pathak, Sessa, Hardin, Bhupatiraju, Hussenot, Mesnard, Shahriari, Ram{\'e} et~al.}]{team2024gemma}
+Gemma Team, Morgane Riviere, Shreya Pathak, Pier~Giuseppe Sessa, Cassidy Hardin, Surya Bhupatiraju, L{\'e}onard Hussenot, Thomas Mesnard, Bobak Shahriari, Alexandre Ram{\'e}, and 1 others. 2024.
+\newblock Gemma 2: Improving open language models at a practical size.
+\newblock \emph{arXiv preprint arXiv:2408.00118}.
+
+\bibitem[{Templeton et~al.(2024)Templeton, Conerly, Marcus, Lindsey, Bricken, Chen, Pearce, Citro, Ameisen, Jones, Cunningham, Turner, McDougall, MacDiarmid, Freeman, Sumers, Rees, Batson, Jermyn, Carter, Olah, and Henighan}]{templeton2024scaling}
+Adly Templeton, Tom Conerly, Jonathan Marcus, Jack Lindsey, Trenton Bricken, Brian Chen, Adam Pearce, Craig Citro, Emmanuel Ameisen, Andy Jones, Hoagy Cunningham, Nicholas~L Turner, Callum McDougall, Monte MacDiarmid, C.~Daniel Freeman, Theodore~R. Sumers, Edward Rees, Joshua Batson, Adam Jermyn, and 3 others. 2024.
+\newblock \href {https://transformer-circuits.pub/2024/scaling-monosemanticity/index.html} {Scaling monosemanticity: Extracting interpretable features from claude 3 sonnet}.
+\newblock \emph{Transformer Circuits Thread}.
+
+\end{thebibliography}
